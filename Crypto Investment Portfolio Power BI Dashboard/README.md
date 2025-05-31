@@ -16,9 +16,13 @@ Objective
 •	To demonstrate professional skills in Power BI, data transformation, and financial analysis
 ________________________________________
 Dataset Used:
+
 File: DATASET - ARP SHEET.xlsx
+
 Link:https://docs.google.com/spreadsheets/d/18t_Na5Sr4XueByRk2xKgXFQTi_KOhSfe/edit?usp=sharing&ouid=100260939393469236442&rtpof=true&sd=true
+
 Source: Manually maintained investor crypto return log
+
 Key Fields:
 •	OWNER – The name of the investors
 •	USERNAME – Unique identifiers for wallet holders/accounts
