@@ -40,20 +40,29 @@ Key Fields:
 •	Returns in INR– Later added through the Power Query option.
 ________________________________________
 Dashboard Features
+
 ✅ Investment Analysis
+
 •	Total Investment in INR & USD displayed in cards
 •	Owner-wise investment breakdown
+
 ✅ Returns Overview
+
 •	Total portfolio returns in INR and USD
 •	Visual insights into owner-wise returns
+
 ✅ Nomination Tracker
+
 •	Nomination values tracked over time
 •	Graph showing daily nomination activity by owner
+
 ✅ Investor-Level Deep Dive
+
 •	INR Returns by Username bar chart
 •	Insights into top-performing accounts within each owner’s portfolio
 ________________________________________
 Tools & Tech Used
+
 •	Microsoft Power BI
 o	Data Modeling
 o	Slicers & Filters
@@ -62,12 +71,14 @@ o	Card Visuals, Line & Clustered Bar Charts
 •	Data Cleaning & Transformation using Power Query
 ________________________________________
 Key Outcomes
+
 •	Built a professional-grade crypto portfolio monitoring tool
 •	Developed advanced data modeling skills
 •	Strengthened visualization skills relevant to FinTech, Crypto, and Investment sectors
 •	Ready to present to stakeholders or potential employers
 ________________________________________
 How to Use
+
 1.	Open the BELDEX.pbix file in Power BI Desktop
 2.	Connect to updated data if needed
 3.	Interact with visual elements using slicers for each owner
