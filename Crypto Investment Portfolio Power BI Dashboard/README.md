@@ -1,5 +1,7 @@
 Crypto Investment Portfolio Dashboard – Power BI Project
+
 Project Repository: https://github.com/RosarioAruldoss/Microsoft_Power_BI/tree/main/Crypto%20Investment%20Portfolio%20Power%20BI%20Dashboard
+
 Author: 
 Mr. Rosario Aruldoss
 Data Analyst / BI Analyst 
@@ -13,17 +15,17 @@ Objective
 •	To track individual owner contributions, returns, and nomination trends
 •	To demonstrate professional skills in Power BI, data transformation, and financial analysis
 ________________________________________
-Dataset Used
+Dataset Used:
 File: DATASET - ARP SHEET.xlsx
 Link:https://docs.google.com/spreadsheets/d/18t_Na5Sr4XueByRk2xKgXFQTi_KOhSfe/edit?usp=sharing&ouid=100260939393469236442&rtpof=true&sd=true
 Source: Manually maintained investor crypto return log
 Key Fields:
-•	OWNER – The name of the investor
+•	OWNER – The name of the investors
 •	USERNAME – Unique identifiers for wallet holders/accounts
 •	NOMINATION VALUE – Assigned nomination per user
 •	INVESTMENT – Initial investment in INR and USD
 •	RETURNS – ROI in INR and USD
-•	DATE – Transaction or activity date
+•	DATE – Transaction or activity date initiation data and final date of return. Duration is 5 years or 60 months.
 •	Returns in INR– Later added through the Power Query option.  
 ________________________________________
 Dashboard Features
