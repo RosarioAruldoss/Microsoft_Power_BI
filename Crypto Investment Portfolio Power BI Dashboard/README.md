@@ -26,11 +26,17 @@ Source: Manually maintained investor crypto return log
 Key Fields:
 
 •	OWNER – The name of the investors
+
 •	USERNAME – Unique identifiers for wallet holders/accounts
+
 •	NOMINATION VALUE – Assigned nomination per used
+
 •	INVESTMENT – Initial investment in INR and USD
+
 •	RETURNS – ROI in INR and USD
+
 •	DATE – Transaction or activity date initiation data and final date of return. Duration is 5 years or 60 months.
+
 •	Returns in INR– Later added through the Power Query option.
 ________________________________________
 Dashboard Features
